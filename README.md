@@ -1,2 +1,3 @@
 # m5stack_060223
-My first project
+# M5Stack Core2 Practice
+First project with M5Stack Core2. Displays date/time and simple UI modes.
